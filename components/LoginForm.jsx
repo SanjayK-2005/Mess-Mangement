@@ -61,7 +61,7 @@ export default function LoginForm() {
         
 
           <Link className="text-sm mt-3 text-right text-blue-900 hover:text-red-900" href="/register">
-            Don't have an account? <span className="underline">Register</span>
+            Don &apos;t have an account? <span className="underline">Register</span>
           </Link>
         </form>
         <Toaster />
